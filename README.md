@@ -4,6 +4,6 @@ Medium like clap animation
 
 Swift-version: 4.2, XCode: 11.1(11A1027)
 
-![Light mode](https://github.com/khyatimirani/InfiniteCollectionViewFeedsUI/blob/master/lightmode.gif)
+![ClapAnimation](https://github.com/khyatimirani/ClapAnimation/blob/master/ClapAnimation/ClapAnimation.gif)
 
-![Dark mode](https://github.com/khyatimirani/InfiniteCollectionViewFeedsUI/blob/master/darkmode.gif)
+
